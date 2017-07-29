@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/node_modules/react-native-auth0/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a66ee3ecc0edf5a3857a7bb4728bda93ecf9845c">
+        <dex dex="/home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/build/intermediates/pre-dexed/release/classes_a6c98ea5ab9ddd2bc5418f4e921aea527b938912.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b319ff9834bbeb9be394687614eb86892699ea14">
+        <dex dex="/home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/build/intermediates/pre-dexed/release/classes_ebdd548c31a80800c670e65718dcea5b4f0c2e01.jar" />
+    </item>
+
+</items>

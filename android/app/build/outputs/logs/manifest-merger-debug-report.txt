@@ -1,0 +1,125 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:1:1-42:12
+	package
+		ADDED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:2:5-25
+		INJECTED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:7:5-77
+MERGED from [com.facebook.react:react-native:0.46.4] /root/.android/build-cache/904b016280681c5978ffc71bdaf3672851a39874/output/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:7:22-75
+uses-sdk
+ADDED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:9:5-11:41
+MERGED from [uulala:react-native-auth0:unspecified] /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/node_modules/react-native-auth0/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:customtabs:23.3.0] /root/.android/build-cache/9fba359dd245af26481262e982c086135c1b071b/output/AndroidManifest.xml:20:5-44
+MERGED from [uulala:react-native-vector-icons:unspecified] /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.46.4] /root/.android/build-cache/904b016280681c5978ffc71bdaf3672851a39874/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] /root/.android/build-cache/e95907d033b41aa49c58c3928eac9a4d3344b949/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] /root/.android/build-cache/cd3544095757e7372d36c7bd265afcc29ceb7cc1/output/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /root/.android/build-cache/093fea12a691e9058cc28ae37e0cf96d9be68409/output/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.0.1] /root/.android/build-cache/c2eb3cbb3aa6541c7c934cc37c27bde91832ea94/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.0.1] /root/.android/build-cache/589c20e345efd8c990a256d8581bf6dac7b0a593/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.0.1] /root/.android/build-cache/d2e26f7c41512a76f6b69e7821742ecd392f07c5/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.0.1] /root/.android/build-cache/3359b16959884ae5c399afe10dacbedb850c47c1/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.0.1] /root/.android/build-cache/a7a2112513917633c09823f2c8d96d047093ff0c/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.0.1] /root/.android/build-cache/141b732a0ec9854db309a57a56ccc112d1759937/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /root/.android/build-cache/87104c80afae5840aae553fdf1df1af575771dd6/output/AndroidManifest.xml:2:3-70
+	android:targetSdkVersion
+		ADDED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:11:9-38
+		INJECTED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:10:9-35
+		INJECTED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:13:5-40:19
+MERGED from [uulala:react-native-auth0:unspecified] /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/node_modules/react-native-auth0/android/build/intermediates/bundles/default/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:customtabs:23.3.0] /root/.android/build-cache/9fba359dd245af26481262e982c086135c1b071b/output/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.react:react-native:0.46.4] /root/.android/build-cache/904b016280681c5978ffc71bdaf3672851a39874/output/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /root/.android/build-cache/e95907d033b41aa49c58c3928eac9a4d3344b949/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] /root/.android/build-cache/cd3544095757e7372d36c7bd265afcc29ceb7cc1/output/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /root/.android/build-cache/87104c80afae5840aae553fdf1df1af575771dd6/output/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /root/.android/build-cache/8d0b15a5a89550936cd8a0f820295fa6fd39dbc2/output/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:16:7-39
+	android:allowBackup
+		ADDED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:15:7-33
+	android:icon
+		ADDED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:17:7-41
+	android:theme
+		ADDED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:18:7-38
+	android:name
+		ADDED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:14:7-38
+activity#com.uulala.MainActivity
+ADDED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:19:7-38:18
+	android:label
+		ADDED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:21:9-41
+	android:launchMode
+		ADDED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:22:9-40
+	android:windowSoftInputMode
+		ADDED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:24:9-51
+	android:configChanges
+		ADDED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:23:9-79
+	android:name
+		ADDED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:20:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:25:9-28:25
+action#android.intent.action.MAIN
+ADDED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:26:13-65
+	android:name
+		ADDED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:26:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:27:13-73
+	android:name
+		ADDED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:27:23-70
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:29:9-37:25
+action#android.intent.action.VIEW
+ADDED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:30:13-65
+	android:name
+		ADDED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:30:21-62
+category#android.intent.category.DEFAULT
+ADDED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:31:13-72
+	android:name
+		ADDED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:31:23-69
+category#android.intent.category.BROWSABLE
+ADDED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:32:13-74
+	android:name
+		ADDED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:32:23-71
+data
+ADDED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:33:13-36:51
+	android:host
+		ADDED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:34:15-51
+	android:scheme
+		ADDED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:36:15-48
+		INJECTED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml
+	android:pathPrefix
+		ADDED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:35:15-70
+		INJECTED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:39:7-84
+	android:name
+		ADDED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:39:17-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:1:1-42:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:1:1-42:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/src/main/AndroidManifest.xml:1:1-42:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

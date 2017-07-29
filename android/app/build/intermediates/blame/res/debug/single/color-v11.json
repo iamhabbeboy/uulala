@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/root/.android/build-cache/e95907d033b41aa49c58c3928eac9a4d3344b949/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/root/.android/build-cache/e95907d033b41aa49c58c3928eac9a4d3344b949/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

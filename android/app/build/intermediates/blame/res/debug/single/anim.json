@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/root/.android/build-cache/e95907d033b41aa49c58c3928eac9a4d3344b949/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/root/.android/build-cache/e95907d033b41aa49c58c3928eac9a4d3344b949/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/root/.android/build-cache/e95907d033b41aa49c58c3928eac9a4d3344b949/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/root/.android/build-cache/e95907d033b41aa49c58c3928eac9a4d3344b949/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/build/intermediates/res/merged/debug/anim/fade_out.xml",
+        "source": "/root/.android/build-cache/904b016280681c5978ffc71bdaf3672851a39874/output/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/build/intermediates/res/merged/debug/anim/slide_down.xml",
+        "source": "/root/.android/build-cache/904b016280681c5978ffc71bdaf3672851a39874/output/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/root/.android/build-cache/904b016280681c5978ffc71bdaf3672851a39874/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/root/.android/build-cache/e95907d033b41aa49c58c3928eac9a4d3344b949/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/root/.android/build-cache/e95907d033b41aa49c58c3928eac9a4d3344b949/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/root/.android/build-cache/e95907d033b41aa49c58c3928eac9a4d3344b949/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/build/intermediates/res/merged/debug/anim/slide_up.xml",
+        "source": "/root/.android/build-cache/904b016280681c5978ffc71bdaf3672851a39874/output/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/root/.android/build-cache/e95907d033b41aa49c58c3928eac9a4d3344b949/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/root/.android/build-cache/e95907d033b41aa49c58c3928eac9a4d3344b949/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/root/.android/build-cache/904b016280681c5978ffc71bdaf3672851a39874/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/build/intermediates/res/merged/debug/anim/fade_in.xml",
+        "source": "/root/.android/build-cache/904b016280681c5978ffc71bdaf3672851a39874/output/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/root/.android/build-cache/e95907d033b41aa49c58c3928eac9a4d3344b949/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    }
+]

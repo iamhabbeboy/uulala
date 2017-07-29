@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/root/.android/build-cache/e95907d033b41aa49c58c3928eac9a4d3344b949/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/root/.android/build-cache/e95907d033b41aa49c58c3928eac9a4d3344b949/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/root/.android/build-cache/e95907d033b41aa49c58c3928eac9a4d3344b949/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/root/.android/build-cache/e95907d033b41aa49c58c3928eac9a4d3344b949/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/root/.android/build-cache/e95907d033b41aa49c58c3928eac9a4d3344b949/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/root/.android/build-cache/e95907d033b41aa49c58c3928eac9a4d3344b949/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/root/.android/build-cache/e95907d033b41aa49c58c3928eac9a4d3344b949/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/root/.android/build-cache/e95907d033b41aa49c58c3928eac9a4d3344b949/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/abbey/Documents/JS Project/ReactJS/Mobile/uulala/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/root/.android/build-cache/e95907d033b41aa49c58c3928eac9a4d3344b949/output/res/color/switch_thumb_material_dark.xml"
+    }
+]
